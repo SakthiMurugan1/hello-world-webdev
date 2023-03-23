@@ -1,4 +1,4 @@
-# WebDevelopment is fun!
+# WebDevelopment is fun
 
 This is a simple personal funpage built to refresh the web development concepts
 
