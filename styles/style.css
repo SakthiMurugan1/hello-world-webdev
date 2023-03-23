@@ -1,0 +1,43 @@
+html {
+    background-color: aliceblue;
+    font-family: Alkatra;
+    font-size: 100%;
+    border: solid black;}
+
+h1 {
+    margin: 0;
+    text-align: center;}
+
+body {
+    width: 50%;
+    margin: 1% auto;
+    padding: 0 2% 2% 2%;
+    background-color: burlywood;
+    border: solid black;}
+
+p, form {
+    padding: 1% 1% 1% 1%;
+    display: block;
+    margin: 1% auto;
+    width: 90%;}
+
+.intro-paragraph {
+    color: darkred;
+    font-size: 100%;}
+
+.outro-para {
+    color: black;
+    font-size: 60%;}
+
+ul, img {
+    display: block;
+    margin: 0 auto;
+    font-size: 90%;
+    width: 80%;}
+
+.images {
+    border: 2px solid black;}
+
+a:hover {
+    color: yellow;
+    font-size: large;}
